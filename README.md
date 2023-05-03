@@ -1,3 +1,3 @@
 # Pedra, papel e tesoura
 
-![screen](/readme/tela.png)
+![screen](/readme/imagem.png)
